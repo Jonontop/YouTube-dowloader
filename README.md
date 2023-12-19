@@ -24,3 +24,5 @@ print("prenašanje...")
 video.download(place)
 
 ```
+
+GUI and Web version will be uploaded soon!
