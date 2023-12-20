@@ -1,9 +1,9 @@
-## This is a simple youtube video/audio downloader in slovenian language
+# This is a simple youtube video/audio downloader in slovenian language
 
 you can export files in .mp3 and .mp4 file format.
 
-## 
-**Terminal Version**
+ 
+## Terminal Version
 ```py
 
 import pytube
