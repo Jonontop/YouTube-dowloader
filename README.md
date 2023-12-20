@@ -1,5 +1,6 @@
 ## This is a simple youtube video/audio downloader in slovenian language
 
+## Termial Version
 ```py
 
 import pytube
@@ -26,5 +27,6 @@ print("prenašanje...")
 video.download(place)
 
 ```
+
 
 GUI and Web version will be uploaded soon!
