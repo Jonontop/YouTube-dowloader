@@ -30,7 +30,7 @@ print("prenašanje...")
 video.download(place)
 
 ```
-## Application Version 
+## Application Version V1.0
 ```py
 import pytube
 import os
