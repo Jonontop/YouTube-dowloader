@@ -123,4 +123,4 @@ root.mainloop()
 ```
 
 
-GUI and Web version will be uploaded soon!
+Web version will be uploaded soon!
