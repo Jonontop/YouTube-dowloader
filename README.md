@@ -1,4 +1,4 @@
-# This is a simple youtube video/audio downloader in slovenian language
+# This is a simple youtube video/audio downloader
 
 you can export files in .mp3 and .mp4 file format.
 
