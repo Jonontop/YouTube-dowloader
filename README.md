@@ -1,6 +1,32 @@
-# This is a simple youtube video/audio downloader
+# Video Downloader with Terminal and Tkinter GUI
 
-you can export files in .mp3 and .mp4 file format.
+This code allows users to download videos from YouTube using either a terminal-based interface or a graphical user interface (GUI) built with Tkinter.
+
+## Terminal Code
+
+- Users input whether they want to download the video as an mp3 (audio only) or mp4 (audio and video).
+- They then provide the URL of the video and the directory path where they want to save the downloaded file.
+- The Pytube library is used to interact with YouTube and download the video accordingly.
+- The downloaded video is saved to the specified directory.
+
+## Pythinker Code (Tkinter GUI)
+
+- Users interact with a graphical interface where they input the desired download type (mp3 or mp4), the video URL, and the destination directory.
+- Upon clicking the download button, the program retrieves the values from the entry fields and initiates the download process using Pytube.
+- The interface also displays a confirmation message upon successful completion of the download.
+
+### Key Components:
+
+- Entry fields for users to input the download type, video URL, and destination directory.
+- A download button that triggers the download process.
+- Labels to display the purpose of each input field.
+- The GUI window is centered on the screen for better user experience.
+
+## Note
+
+- Both versions of the code utilize the Pytube library to interact with YouTube and download videos.
+- The terminal version is suitable for users comfortable with command-line interfaces, while the Tkinter GUI provides a more user-friendly experience for those who prefer graphical interfaces.
+
 
  
 ## Terminal Version
